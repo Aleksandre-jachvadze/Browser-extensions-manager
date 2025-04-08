@@ -49,8 +49,6 @@ const RouteContent = () => {
       </main>
       <footer>
         <div className="text-center text-xs">
-          Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
-          Coded by <a href="https://github.com/thomasjonstrup">Thomas Jonstrup</a>.
         </div>
       </footer>
       <TanStackRouterDevtools />
